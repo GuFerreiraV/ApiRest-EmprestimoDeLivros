@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="7.3.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="7.3.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="7.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EmprestimoDeLivros.Application\EmprestimoDeLivros.Application.csproj" />
+    <ProjectReference Include="..\EmprestimoDeLivros.Domain\EmprestimoDeLivros.Domain.csproj" />
+    <ProjectReference Include="..\EmprestimoDeLivros.Infra.Data\EmprestimoDeLivros.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

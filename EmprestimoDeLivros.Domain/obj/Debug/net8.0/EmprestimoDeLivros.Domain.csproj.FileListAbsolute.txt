@@ -1,0 +1,11 @@
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Domain\obj\Debug\net8.0\EmprestimoDeLivros.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Domain\obj\Debug\net8.0\EmprestimoDeLivros.Domain.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Domain\obj\Debug\net8.0\EmprestimoDeLivros.Domain.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Domain\obj\Debug\net8.0\EmprestimoDeLivros.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Domain\bin\Debug\net8.0\EmprestimoDeLivros.Domain.deps.json
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Domain\bin\Debug\net8.0\EmprestimoDeLivros.Domain.dll
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Domain\bin\Debug\net8.0\EmprestimoDeLivros.Domain.pdb
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Domain\obj\Debug\net8.0\EmprestimoDeLivros.Domain.dll
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Domain\obj\Debug\net8.0\refint\EmprestimoDeLivros.Domain.dll
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Domain\obj\Debug\net8.0\EmprestimoDeLivros.Domain.pdb
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Domain\obj\Debug\net8.0\ref\EmprestimoDeLivros.Domain.dll

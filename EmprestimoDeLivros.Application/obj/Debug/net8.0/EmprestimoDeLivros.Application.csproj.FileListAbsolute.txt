@@ -1,0 +1,15 @@
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Application\bin\Debug\net8.0\EmprestimoDeLivros.Application.deps.json
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Application\bin\Debug\net8.0\EmprestimoDeLivros.Application.dll
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Application\bin\Debug\net8.0\EmprestimoDeLivros.Application.pdb
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Application\bin\Debug\net8.0\EmprestimoDeLivros.Domain.dll
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Application\bin\Debug\net8.0\EmprestimoDeLivros.Domain.pdb
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Application\obj\Debug\net8.0\EmprestimoDeLivros.Application.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Application\obj\Debug\net8.0\EmprestimoDeLivros.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Application\obj\Debug\net8.0\EmprestimoDeLivros.Application.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Application\obj\Debug\net8.0\EmprestimoDeLivros.Application.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Application\obj\Debug\net8.0\EmprestimoDeLivros.Application.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Application\obj\Debug\net8.0\Empresti.7B1AA42B.Up2Date
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Application\obj\Debug\net8.0\EmprestimoDeLivros.Application.dll
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Application\obj\Debug\net8.0\refint\EmprestimoDeLivros.Application.dll
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Application\obj\Debug\net8.0\EmprestimoDeLivros.Application.pdb
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Application\obj\Debug\net8.0\ref\EmprestimoDeLivros.Application.dll

@@ -1,0 +1,17 @@
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Infra.Data\bin\Debug\net8.0\EmprestimoDeLivros.Infra.Data.deps.json
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Infra.Data\bin\Debug\net8.0\EmprestimoDeLivros.Infra.Data.runtimeconfig.json
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Infra.Data\bin\Debug\net8.0\EmprestimoDeLivros.Infra.Data.dll
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Infra.Data\bin\Debug\net8.0\EmprestimoDeLivros.Infra.Data.pdb
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Infra.Data\bin\Debug\net8.0\EmprestimoDeLivros.Domain.dll
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Infra.Data\bin\Debug\net8.0\EmprestimoDeLivros.Domain.pdb
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Infra.Data\obj\Debug\net8.0\EmprestimoDeLivros.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Infra.Data\obj\Debug\net8.0\EmprestimoDeLivros.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Infra.Data\obj\Debug\net8.0\EmprestimoDeLivros.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Infra.Data\obj\Debug\net8.0\EmprestimoDeLivros.Infra.Data.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Infra.Data\obj\Debug\net8.0\EmprestimoDeLivros.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Infra.Data\obj\Debug\net8.0\Empresti.9A4276EB.Up2Date
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Infra.Data\obj\Debug\net8.0\EmprestimoDeLivros.Infra.Data.dll
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Infra.Data\obj\Debug\net8.0\refint\EmprestimoDeLivros.Infra.Data.dll
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Infra.Data\obj\Debug\net8.0\EmprestimoDeLivros.Infra.Data.pdb
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Infra.Data\obj\Debug\net8.0\EmprestimoDeLivros.Infra.Data.genruntimeconfig.cache
+C:\Users\Gustavo\source\repos\EmprestimoDeLivros\EmprestimoDeLivros.Infra.Data\obj\Debug\net8.0\ref\EmprestimoDeLivros.Infra.Data.dll

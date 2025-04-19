@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7A1ob6A0xteuzRA+xuoHTK5l1xVJuDSMeFFyIFsdOrI=",
+  "Source": "EmprestimoDeLivro.API",
+  "BasePath": "_content/EmprestimoDeLivro.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
